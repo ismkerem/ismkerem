@@ -6,7 +6,7 @@
 
 ###
 - 🔭 I'm currently working on developing a mobile application.
-- - 🌱 I’m currently learning **VHDL**
+- 🌱 I’m currently learning **VHDL**
 
 
 ###
