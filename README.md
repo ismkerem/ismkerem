@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Connect with me</p>
+
 
 ###
 
