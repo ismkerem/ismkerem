@@ -5,7 +5,7 @@
 <p align="left">My name is İsmail Kerem and I am a 3rd year computer engineering student.</p>
 
 ###
-- 🔭 I'm currently working on developing a mobile application.
+- 🔭 I'm currently working on a mobile application project and 16-bit processor.
 - 🌱 I’m currently learning **VHDL**
 
 
