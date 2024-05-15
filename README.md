@@ -6,7 +6,7 @@
 
 ###
 - 🔭 I'm currently working on a mobile application project and 16-bit processor.
-- 🌱 I’m currently learning **VHDL**
+- 🌱 I’m currently learning **VHDL,Go**
 
 
 ###
