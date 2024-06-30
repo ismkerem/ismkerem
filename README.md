@@ -6,7 +6,7 @@
 
 ###
 - 🔭 I'm currently working on a mobile application project and 16-bit processor.
-- 🌱 I’m currently learning **VHDL,Go**
+- 🌱 I’m currently learning **VHDL**
 
 
 ###
@@ -47,6 +47,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-</div>
-
+    <img width="12" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go"  height="40"/> </div>
 ###
