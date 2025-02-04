@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">My name is İsmail Kerem and I am a 3rd year computer engineering student.</p>
+<p align="left">My name is İsmail Kerem and I am a 4rd year computer engineering student.</p>
 
 ###
-- 🔭 I'm currently working on a mobile application project and 16-bit processor.
-- 🌱 I’m currently learning **VHDL**
+- 🔭 I'm currently working on a mobile application project.
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, Data Science, and Artificial Intelligence**
 
 
 ###
@@ -49,3 +49,6 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
     <img width="12" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go"  height="40"/> </div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" 
+height="40" alt="TensorFlow logo" />
+
