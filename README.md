@@ -1,10 +1,9 @@
 <h1 align="left">👋 Hey, I'm İsmail Kerem Gül.</h1>
 
 <p align="left">
-I'm a React Native Developer and a Computer Engineer who is constantly improving himself.  
-Mobil uygulama geliştirme dünyasında; performanslı, ölçeklenebilir uygulamalar ve temiz mimari (clean architecture) prensipleri üzerine kendimi geliştiriyorum.
-
-Beyond React Native, I actively improve myself in Android Native development with Kotlin (Jetpack Compose) and backend development with Go (Golang).
+I’m a React Native Developer and a Computer Engineer who is constantly improving myself.
+In the mobile application development field, I focus on building high-performance, scalable applications and improving myself in clean architecture principles.
+Beyond React Native, I am actively improving my skills in Android native development using Kotlin (Jetpack Compose) and backend development with Go (Golang).
 </p>
 
 
